@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aeggerton
-- 👀 I’m interested in ... reading, board games, and international quisine! 
+- 👀 I’m interested in ... reading, board games, and international cuisine! 
 - 🌱 I’m currently learning ... HTML 5 and CSS
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me ...
